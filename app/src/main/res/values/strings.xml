@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">FoodShare</string>
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+    <string name="title_reservation_details">Reservation Details</string>
+    <string name="msg_reservation_confirmed">Reservation Confirmed!</string>
+    <string name="msg_parties_notified">Both parties have been notified</string>
+    <string name="label_pickup_location">Pickup Location</string>
+    <string name="btn_contact_donor">Contact Donor</string>
+    <string name="btn_cancel_reservation">Cancel Reservation</string>
+    <string name="btn_directions">Directions</string>
+    <string name="btn_chat">Chat</string>
+    <string name="label_reservation_id">Reservation ID</string>
+    <string name="label_reserved_on">Reserved on</string>
+    <string name="label_pickup_by">Pickup by</string>
+    <string name="label_quantity">Quantity</string>
+    <string name="label_donor_info">Donor Information</string>
+    <string name="text_loading">Loading...</string>
+    <string name="text_unknown_donor">Unknown Donor</string>
+    <string name="text_donor_not_found">Donor profile not found</string>
+    <string name="text_no_donor_info">No donor information available</string>
+    <string name="text_error_loading_donor">Error loading donor</string>
+    
+    <!-- Registration Screen -->
+    <string name="text_need_help">Need some help?</string>
+    <string name="title_getting_started">Getting Started</string>
+    <string name="subtitle_create_account">Create account to continue!</string>
+    <string name="hint_full_name">Full Name</string>
+    <string name="hint_email">Email Address</string>
+    <string name="hint_phone">Phone Number</string>
+    <string name="hint_bio">Bio</string>
+    <string name="hint_city">City</string>
+    <string name="hint_country">Country</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="label_matric_id_upload">Matric ID Upload</string>
+    <string name="btn_create_account">Create Account</string>
+    <string name="btn_login">Login!</string>
+    
+    <!-- Welcome Screen -->
+    <string name="app_title">FOODSHARE UM</string>
+    <string name="app_subtitle">Connect, Share &amp; Reduce Food Waste</string>
+    
+    <!-- Login Screen -->
+    <string name="title_foodshare_um">FoodShare UM</string>
+    <string name="title_welcome_back">Welcome Back</string>
+    <string name="subtitle_sign_in">Sign in to continue to FoodShare UM</string>
+    <string name="text_forgot_password">Forgot Password?</string>
+    <string name="btn_login_action">Login</string>
+    <string name="text_or">OR</string>
+    <string name="btn_google_login">Continue with Google</string>
+    <string name="text_no_account">Don\'t have an account?</string>
+    <string name="btn_register">Register</string>
+    <string name="text_terms_privacy">By continuing, you agree to our\nTerms of Service\nand\nPrivacy Policy</string>
+    
+    <!-- Forgot Password Screen -->
+    <string name="title_reset_password">Reset Password</string>
+    <string name="subtitle_reset_password">Enter your email address and we\'ll send you a link to reset your password.</string>
+    <string name="btn_send_reset_link">Send Reset Link</string>
+    <string name="btn_back_to_login">Back to Login</string>
+    
+    <!-- Toasts & Errors -->
+    <string name="error_email_required">Email is required</string>
+    <string name="error_password_required">Password is required</string>
+    <string name="error_passwords_match">Passwords do not match</string>
+    <string name="msg_account_created">Account Created!</string>
+    <string name="msg_login_successful">Login Successful!</string>
+    <string name="msg_auth_failed">Authentication Failed.</string>
+    <string name="msg_google_login_not_implemented">Google Login not implemented yet</string>
+    <string name="msg_reset_link_sent">Reset link sent to your email.</string>
+    <string name="error_failed_save_user">Failed to save user data: </string>
+    <string name="error_registration_failed">Registration Failed: </string>
+    <string name="error_failed_send_reset">Failed to send reset email: </string>
+    <string name="default_web_client_id">330457868454-m1v4vh6sr1i7fjsjki62firloa7od9s8.apps.googleusercontent.com</string>
+</resources>
